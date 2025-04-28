@@ -4,7 +4,7 @@ Họ và tên: Nguyễn Đăng Khoa
 
 Lớp: ATTN2024
 
-MSSV: 245202825
+MSSV: 24520825  
 
 ## 	Kiểm tra biểu thức toán học (Latex)
 Bài này để kiểm tra dãy ngoặc hợp lệ chúng ta dùng stack
